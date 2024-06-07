@@ -18,3 +18,10 @@ _>_ 对算法的初步探索, 不具有交易指导意义
 
 1. 使用测试集和训练的*均方误差* 比值作为评判标准, 越和 1 靠近越优
 2. 曲线状态
+
+## 结果
+
+训练集
+![image](https://github.com/H3dg3h09/Price-Prediction-By-Tick/blob/main/output/cat_res_tarin.png)
+测试集
+![image](https://github.com/H3dg3h09/Price-Prediction-By-Tick/blob/main/output/cat_res_test.png)
